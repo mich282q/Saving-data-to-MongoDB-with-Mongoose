@@ -1,0 +1,22 @@
+{
+  "name": "demo.app-05_01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jasmine",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Michael Trans",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.3.1",
+    "socket.io": "^2.1.1"
+  },
+  "devDependencies": {
+    "jasmine": "^3.2.0"
+  }
+}
